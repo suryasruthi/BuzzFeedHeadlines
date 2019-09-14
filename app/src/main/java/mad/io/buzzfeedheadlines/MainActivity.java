@@ -149,6 +149,7 @@ public class MainActivity extends AppCompatActivity {
             //String imageURL = s.urlToImage;
             //Bitmap myBitmap = getImageBitmap(imageURL);
            //imageView.setImageBitmap(myBitmap);
+
         }
 
         @Override
