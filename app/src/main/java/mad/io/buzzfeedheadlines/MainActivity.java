@@ -146,9 +146,10 @@ public class MainActivity extends AppCompatActivity {
             textViewHeadline.setText(s.title);
             textViewdate.setText(s.publishedAt.substring(0,10));
             textViewdata.setText(s.description);
-            //String imageURL = s.urlToImage;
+            /*String imageURL = s.urlToImage;
             //Bitmap myBitmap = getImageBitmap(imageURL);
            //imageView.setImageBitmap(myBitmap);
+           */
 
         }
 
